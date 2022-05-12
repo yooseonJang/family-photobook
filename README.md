@@ -4,4 +4,4 @@ This personal project was inspired by my mom wanting to create a family photoboo
 
 Cheers to finishing the project this summer 🥂!
 
-Here is the link to my work as of now: 
+Here is the link to my work as of now: https://yooseonjang.github.io/family-photobook/
