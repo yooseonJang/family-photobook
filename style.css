@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+    font-size: 60px;
+    font-family: 'space mono';
+}
+
+.search {
+    text-align: center;
+}
+
+nav {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: space-between;
+    text-align: center;
+}
+
+.language {
+    background-color: aquamarine;
+}
+
+.people {
+    background-color: lightcyan;
+}
+
+.auto-play {
+    background-color: lightpink;
+}
+
+.years {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    background-color: lightsalmon;
+    height: 500px;
+    align-content: center;
+}
+
+.button {
+    background-color: white;
+    width: 150px;
+    height:150px;
+    line-height: 150px;
+    border: 1px solid red;
+    border-radius: 50%;
+    text-align: center;
+    justify-self: center;
+    
+}
